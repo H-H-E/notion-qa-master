@@ -1,0 +1,85 @@
+# Train
+
+**Trains** are Contraptions that can travel on Train Tracks through unloaded chunks and Nether Portals.
+
+## Contents
+
+- 1 Creation
+    - 1.1 Disassembling
+- 2 Usage
+    - 2.1 Driving
+    - 2.2 Relocation
+    - 2.3 Auto-Piloting
+        - 2.3.1 Arrival Sound Cue
+    - 2.4 Unloaded Chunks
+    - 2.5 Nether Portal Travel
+    - 2.6 Fuel
+
+## Creation[]
+
+The following items are needed to create a Train:
+
+- Train Track
+- Train Station
+- Train Casing
+- Train Controls
+
+Right click a straight set of Tracks with the Train Station, then place the station. Enter the station’s interface and create a train. Behind the Station, the Track will be highlighted blue where Train Casing can be placed. Place Train Casing on the highlighted blue areas of the track to create a Bogey. Bogeys cannot be placed on curved or diagonal tracks. An assembly track can be up to 128 blocks long (adjustable in the Config.)
+
+Regardless of the Bogey’s apparent connection to each other, they will become linked as part of the Train. Each Bogey requires at least one block to be attached. Bogeys linked together via blocks become a carriage. Each carriage can have a max of 2 Bogeys. A Train can have up to 20 Bogeys by default (adjustable in the Config.) The front and back sides of the top part of the Bogey are sticky by default.
+
+A Train requires at least one set of forward facing Train Controls, relative to the Station the Train is created at. When the Train is ready to be assembled, do so in the station’s interface. Using the Station, the Train can now be named.
+
+### Disassembling[]
+
+A Train can only be disassembled when aligned at a Train Station. This is done by holding the jump button while approaching a Train Station from the appropriate side. Then the Train can be disassembled via the Station’s interface. This cannot be done automatically.
+
+## Usage[]
+
+### Driving[]
+
+Right click the Train Controls to take control of the Train. The player’s ordinary movement options will affect the Train instead. Hold jump when approaching a Station to properly align the Train. Use the scroll wheel to adjust the maximum speed. Right-click the Train Controls again or sneak to stop controlling the Train. If a Steam Whistle is attached, hold sprint to activate it.
+
+### Relocation[]
+
+Right-click an assembled train with a Wrench to begin relocation. Right-click on an appropriately sized set of Tracks up to 24 blocks away to relocate the train there, facing away from the player.
+
+Trains will derail upon various circumstances, such as crashing with another Train or having the track under them broken. If the Train is derailed, right click it with a Wrench, then right click a nearby Train Track to relocate it.
+
+### Auto-Piloting[]
+
+Main articles: Train Schedule, Train Station, and Train Signal Trains can be piloted by a Blaze Burner or Seated mob directly in front of Train Controls. They can then be instructed to navigate between Stations with Train Schedules. Conductors will avoid occupied stations and will only approach a station from the station’s specified direction.
+
+Trains identify stations by their names. All stations start out with a default name: “Track Station.” If two or more stations on a network have the same name, the conductor will attempt to pathfind to the closest unoccupied one, including the Station they’re currently at. If a Train is at a station named Track Station and is told to navigate to Track Station, it will not leave the station.
+
+A conductor’s Train Schedule can be changed automatically by inputting one into the Train Station. The Schedule’s contents will be copied, though the schedule itself will remain on the station.
+
+Train Signals can be used to further control traffic on the network.
+
+### Arrival Sound Cue[]
+
+When the Train is 64 Track blocks away from the destination in the Train Schedule, it will attempt to play a sound cue using onboard blocks. The following blocks may be used by a Train:
+
+- Steam Whistle - Plays a special train sound, accounting for pitch.
+- Bell
+- Peculiar Bell
+- Haunted Bell
+- Note Block - Instrument and pitch are accounted for.
+
+Multiple different blocks can be played on the same Train. However, the further away from the front of the train the block is, the longer it takes before it is played. Multiple blocks can be played at the same time if they are placed adjacent and perpendicular to the Train. Notably, the sequence will also be played backwards if the conductor switches to using opposite facing Train Controls.
+
+Note that the player cannot activate these blocks manually.
+
+### Unloaded Chunks[]
+
+Trains will continue through unloaded chunks. When arriving at a station in an unloaded chunk, the Train will stop as it normally does, however the chunk will NOT be loaded. Train Schedule conditions such as “Item Cargo Condition” may remain unfulfilled; set “Chunk Unloaded” as an alternative condition to have the Train continue anyways.
+
+### Nether Portal Travel[]
+
+Train Tracks can go through Nether Portals. Simply lead the Track to a portal, and it will link to the other side if it was already loaded once. A set of tracks will appear on the other side of the portal, making it easier to tell which way the Train will emerge from. While a wagon is part way through a nether portal, certain onboard machines such as Portable Storage or Portable Fluid Interfaces will not work.
+
+### Fuel[]
+
+Additional fuel is optional for increased speed. Fuel will be taken from inventories such as Chests, Barrels, and Shulker Boxes, though fuel will NOT be taken from Item Vaults.
+
+By default, unpowered trains have a maximum speed of 28 blocks/second and max turning speed of 14 blocks/second, while powered trains have maximum speeds of 40 and 20 blocks/second, respectively. This is adjustable in the Config.

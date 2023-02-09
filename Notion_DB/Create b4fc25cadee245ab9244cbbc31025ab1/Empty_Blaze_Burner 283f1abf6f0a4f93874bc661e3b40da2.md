@@ -1,0 +1,113 @@
+# Empty_Blaze_Burner
+
+## Blaze Burner
+
+- Empty
+- with Blaze
+
+### Renewable
+
+Yes
+
+### Stackable
+
+Yes (64)
+
+### Tool
+
+### Blast resistance
+
+6
+
+### Hardness
+
+3
+
+### Solid block
+
+Yes
+
+### Full block
+
+No
+
+### Transparent
+
+Yes
+
+### Luminant
+
+Yes (if heated)
+Heated: 12
+Superheated: 15
+With Fire: 13
+With Soul Fire: 10
+
+### Flammable
+
+No
+
+### Catches fire from lava
+
+No
+
+A **Blaze Burner** is a heating component that is required for certain Mixing recipes.
+
+## Contents
+
+- 1 Obtaining
+    - 1.1 Crafting an Empty Blaze Burner
+    - 1.2 Filling an Empty Blaze Burner
+- 2 Usage
+    - 2.1 Heating
+    - 2.2 Train Controlling
+- 3 Decoration
+- 4 Gallery
+- 5 History
+
+## Obtaining[]
+
+### Crafting an Empty Blaze Burner[]
+
+### Filling an Empty Blaze Burner[]
+
+Blaze Burners must have Blazes in them to function. To put a Blaze in an Empty Blaze Burner, right-click on a Blaze to capture it. Alternatively, an Empty Blaze Burner can be filled by clicking on a Blaze Spawner. This method can be repeated without risk of destroying the Blaze Spawner.
+
+## Usage[]
+
+### Heating[]
+
+Blaze Burners are used for Heating and Super-Heating Basins when doing Mixing recipes. They can also be used as a heat source for boilers used to power Steam Engines. When a heat-able block is placed above a fueled Blaze Burner, the Burner will appear to channel heat into the block.
+
+Blaze Burners are an important milestone, as they are required to make Brass. Brass is used for many important machines, including filtered item transportation.
+
+Right-clicking a Blaze Burner with any item that can be used as Furnace fuel will temporarily put it in a Heated state. Right-clicking a Blaze Burner with a Blaze Cake will temporarily put it in a Super-Heated state.
+
+A deployer or Mechanical Arm can be used to automatically fuel it, given any burnable item as an input. It will stop if adding fuel will cause it to exceed it’s maximum fuel capacity of 500 seconds, so no fuel is wasted.
+
+Fuel burn time is the same as a vanilla Furnace. The Blaze inside changes its size and texture depending on the amount of fuel provided, following the phases:
+
+- Phase 1 — Smouldering — Does not provide any heat. This is the default state when placing the Burner, or when the fuel runs out.
+- Phase 2 — Heated/Kindled — Allows to perform recipes that require heating. Lasts for the fuel’s burn time.
+- Phase 3 — Super-Heated/Seething — Allows to perform every Mixing recipe. Only achievable using the Blaze Cake. Always lasts for 50 seconds. The Blaze Burner cannot be re-fed during this phase.
+
+### Train Controlling[]
+
+When assembled with a Train and given a Train Schedule, it will drive the Train to the Train Stations the schedule specifies. Will also be given a conductor hat, to signal that it’s driving.
+
+## Decoration[]
+
+Blaze Burners can be given a set of Engineer’s Goggles by using a pair on them.
+
+Empty Blaze Burners can be lit on fire with a Flint and Steel as a decorative block. While lit, they can be given Soul Sand or Soul Soil to turn the fire into Soul Fire. These do not serve as heat for mixer recipes. However, they can be used as a passive heat source for Steam Engine boilers and for Bulk Smoking and Bulk Haunting using the *lit* and *soul fire* versions respectively.
+
+## Gallery[]
+
+Empty Blaze Burnersmouldering phaseheated phasesuper-heated phaseLit Empty Blaze BurnerSoul Fire Empty Blaze Burner ## History[]
+
+- 0.5:
+    - Assets reworked.
+    - Can now be given Engineer’s Goggles.
+    - No longer has a Fading phase.
+- 0.3.2: Decorative Blaze Burners can now accept soul sand to make it a soul fire.
+- 0.3: Added.

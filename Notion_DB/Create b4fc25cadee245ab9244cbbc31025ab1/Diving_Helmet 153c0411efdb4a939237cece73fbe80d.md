@@ -1,0 +1,48 @@
+# Diving_Helmet
+
+## Diving Gear
+
+- Helmet
+- Boots
+
+### Type
+
+Armor
+
+### Durability
+
+Helmet: 77
+Boots: 91
+
+### Renewable
+
+Yes
+
+### Stackable
+
+No
+
+**Diving Gear** is used with Copper Backtank for underwater mobility.
+
+## Contents
+
+- 1 Obtaining
+    - 1.1 Crafting
+- 2 Usage
+- 3 History
+
+## Obtaining[]
+
+### Crafting[]
+
+## Usage[]
+
+The boots provide 1 () armor point while the Helmet provides 2 ().
+
+The Diving Helmet used with a Copper Backtank grants Water Breathing while underwater. The Diving Boots cause the player to sink faster and be unable to swim, but allows jumping and walking underwater.
+
+They also grant immunity to Mechanical Belts.
+
+## History[]
+
+**Release 0.3.2**: Added.

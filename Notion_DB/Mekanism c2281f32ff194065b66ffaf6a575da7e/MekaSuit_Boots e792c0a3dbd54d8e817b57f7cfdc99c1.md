@@ -1,0 +1,215 @@
+# MekaSuit_Boots
+
+Mekasuit
+
+| Mod |  |
+| --- | --- |
+| Mekanism |  |
+|  |  |
+| Type |  |
+| Armor |  |
+|  |  |
+| Durability |  |
+| N/A |  |
+|  |  |
+| Stackable |  |
+| No |  |
+|  |  |
+
+The MekaSuit is a highly configurable set of late-game modular armor added in Mekanism v10. The MekaSuit is divided into 4 parts, the headpiece, the chest plate, the leggings, and the boots. Each part of the MekaSuit can be upgraded with Modules that are installed with the Modification Station and can be configured by pressing "" (backslash). It is considered the best armor in Mekanism and is very expensive to make and fully upgrade, even for late game players, requiring a large amount of Polonium to be processed into pellets. With a fully upgraded suit however, the wearer becomes nearly invincible along with several functions such as eating being able to be automated.
+
+## Contents
+
+- 1 Video Tutorials
+- 2 Crafting Recipe
+- 3 Upgrades
+- 4 Usage
+
+## Video Tutorials
+
+https://www.youtube.com/watch?v=OykTyhwKNjw - EsquilãoBR Tutorial PT-BR
+
+## Crafting Recipe
+
+MekaSuit Helmet:
+
+Ingredients | Crafting recipe |
+— | — |
+Basic Induction Cell +
+
+HDPE Sheet + Polonium Pellet + Netherite Helmet + Ultimate Control Circuit |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+|
+
+MekaSuit Bodyarmor:
+
+Ingredients | Crafting recipe |
+— | — |
+Basic Induction Cell +
+
+HDPE Sheet + Polonium Pellet + Netherite Chestplate + Ultimate Control Circuit |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+|
+
+MekaSuit Pants:
+
+Ingredients | Crafting recipe |
+— | — |
+Basic Induction Cell +
+
+HDPE Sheet + Polonium Pellet + Netherite Leggings + Ultimate Control Circuit |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | File:Grid Netherite Leggings.png |  |  |  |
+|  |  |  |  |  |
+
+|
+
+MekaSuit Boots:
+
+Ingredients | Crafting recipe |
+— | — |
+Basic Induction Cell +
+
+HDPE Sheet + Polonium Pellet + Netherite Boots + Ultimate Control Circuit |
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | File:Grid Netherite Boots.png |  |  |  |
+|  |  |  |  |  |
+
+|
+
+## Upgrades
+
+- Each MekaSuit armor piece supports a variety of different upgrades which give the user various benefits and abilities. Some of these are unique to armor pieces and cannot be installed on other armor pieces. Upgrades are installed using Modules at the Modification Station.
+- Once installed, upgrades can be removed and, if the upgrade is not unique, can be reinstalled on other armor pieces by uninstalling it at a Modification Station and putting it on another armor piece as normal.
+- Each armor piece can have several modules of the same type installed to it depending on the module type, in some cases up to 8. In this case each additional upgrade will improve the ability/effectiveness of the module upgrade.
+- Each module can be uninstalled individually just like machine Upgrades.
+- Modules can be toggled through their various modes if they have more than 1 using the appropriate corresponding armor mode switch key.
+
+## Usage
+
+- The MekaSuit like most rechargable Mekanism items has infinite durability, requiring Forge Energy to function instead.
+    - Every time the player takes damage it uses up some of the electricity in the armor, evenly distributing the charge loss throughout all pieces at once.
+    - The total charge remaining is shown both when hovering over the suit pieces in the inventory and as a green bar where armor points are usually displayed.
+        - Each piece holds 6.40MFE, and when combined with a Solar Recharging Unit and Charge Distribution Unit it is possible for the wearer to never run out of energy in the MekaSuit.
+- When worn, the MekaSuit Helmet brings up an Augmented Reality inspired UI within the player’s field of view. It displays the following information to the player:
+    - **Top Left:** The remaining charge (as a percentage) of each currently worn armor piece.
+    - **Bottom Left:** The current location coordinates (X,Y,Z) of the player, within a simple compass which shows orientation.
+    - **Bottom Right:** The current status of modules installed. For example, it will display remaining jetpack hydrogen if the player has the Jetpack Unit installed, or how much food is remaining in the helmet if the Nutritional Injection Unit is installed.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+- v
+- t
+- e Mekanism | | — | | | | Guides |
+- Ore Processing
+- Getting Started
+- Basic Ore Processing Setup
+- Advanced Ore Processing Setup
+- Installation Instructions
+- Machine Configuration
+- Upgrading to Mekanism v8
+
+| | | | Machinery | * Metallurgic Infuser * Enrichment Chamber * Osmium Compressor * Crusher * Combiner * Energized Smelter * Purification Chamber * Digital Miner * Electrolytic Separator * Factory * Precision Sawmill * Pressurized Reaction Chamber * Chemical Injection Chamber * Chemical Infuser * Chemical Oxidizer * Chemical Dissolution Chamber * Chemical Washer * Chemical Crystallizer * Rotary Condensentrator * Seismic Vibrator * Fluidic Plenisher * Solar Neutron Activator * Oredictionificator
+
+| | | | Generators | * Heat Generator * Solar Generator * Advanced Solar Generator * Wind Generator * Bio-Generator * Gas-Burning Generator
+
+| | | | Tools | * Lapis Lazuli Tools * Bronze Tools * Osmium Tools * Glowstone Tools * Steel Tools * Obsidian Tools * Paxel * Gauge Dropper
+
+| | | | Armor | * Lapis Lazuli Armor * Bronze Armor * Osmium Armor * Glowstone Armor * Steel Armor * Obsidian Armor
+
+| | | | Equipment | * Jetpack * Armored Jetpack * Scuba Tank * Gas Mask * Free Runners * Flamethrower
+
+| | | | Ore Processing |
+
+| Ores |  |
+| --- | --- |
+- Copper Ore
+- Tin Ore
+- Osmium Ore
+- Salt Block
+- Uranium Ore
+
+| | | | Dusts | * Dusts * Dirty Dusts * Clumps * Shards * Crystals * Slurry * Enriched Iron
+
+| | | | Ingots | * Copper Ingot * Tin Ingot * Osmium Ingot * Bronze Ingot * Steel Ingot * Obsidian Ingot * Glowstone Ingot
+
+| | | | Compressed | * Compressed Carbon * Compressed Diamond * Compressed Obsidian * Compressed Redstone
+
+|
+
+| | | | Upgrades | * Speed Upgrade * Energy Upgrade * Gas Upgrade * Filter Upgrade * Anchor Upgrade * Factory Installers
+
+| | | | Gadgets | * Atomic Disassembler * Cardboard Box * Chargepad * Configurator * Dictionary * Electric Bow * Electric Pump * Energy Tablet * Portable Teleporter * Robit * Walkie-Talkie * Filter Card * Seismic Reader
+
+| | | | Transmitters | * Logistical Transporter * Restrictive Transporter * Diversion Transporter * Logistical Sorter * Mechanical Pipe * Pressurized Tube * Universal Cable * Thermodynamic Conductor
+
+| | | | Storage |
+
+| Bins |  |
+| --- | --- |
+- Basic Bin
+- Advanced Bin
+- Elite Bin
+- Ultimate Bin
+
+| | | | Energy Cubes | * Basic Energy Cube * Advanced Energy Cube * Elite Energy Cube * Ultimate Energy Cube
+
+| | | | Gas Tanks | * Basic Gas Tank * Advanced Gas Tank * Elite Gas Tank * Ultimate Gas Tank
+
+| | | | Fluid Tanks | * Basic Fluid Tank * Advanced Fluid Tank * Elite Fluid Tank * Ultimate Fluid Tank
+
+| | | | Multiblock Storage | * Dynamic Tank
+
+| | | | Small Storage | * Personal Chest
+
+|
+
+| | | | Aesthetic Blocks | * Bronze Block * Charcoal Block * Copper Block * Osmium Block * Refined Glowstone * Refined Obsidian * Steel Block * Tin Block * Plastic Block * Glow Panel
+
+| | | | Components | * Solar Panel * Steel Casing * HDPE Pellet * HDPE Sheet * HDPE Rod * PlaStick
+
+| Alloys |  |
+| --- | --- |
+- Enriched Alloy
+- Reinforced Alloy
+- Atomic Alloy
+
+| | | | Control Circuits | * Basic Control Circuit * Advanced Control Circuit * Elite Control Circuit * Ultimate Control Circuit
+
+| | | | Cores | * Electrolytic Core * Teleportation Core
+
+| | | | Thermal Evaporation Plant | * Thermal Evaporation Block * Thermal Evaporation Controller * Thermal Evaporation Valve
+
+| | | | Dynamic Tank | * Dynamic Glass * Dynamic Tank * Dynamic Valve
+
+| | | | Teleporter Portal | * Teleporter * Teleporter Frame
+
+| | | | Fusion Reactor | * Reactor Frame * Reactor Port * Reactor Controller * Reactor Glass * Reactor Logic Adapter * Laser Focus Matrix
+
+| | | | Industrial Turbine | * Turbine Casing * Turbine Valve * Turbine Vent * Pressure Disperser * Turbine Blades * Turbine Rotor * Rotational Complex * Electromagnetic Coil * Structural Glass
+
+| | | | Induction Matrix | * Induction Casing * Induction Port * Induction Cells * Induction Providers
+
+| | | | Lasers | * Laser * Laser Amplifier * Laser Tractor Beam
+
+|
+
+| | | | Miscellaneous | * Balloon * Bio Fuel * Gases * MekaCape * Obsidian TNT * Teleporter Portal
+
+|
+
+|

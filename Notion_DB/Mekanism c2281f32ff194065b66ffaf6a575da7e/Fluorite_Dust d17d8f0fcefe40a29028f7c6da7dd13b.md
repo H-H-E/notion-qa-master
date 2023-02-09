@@ -1,0 +1,5 @@
+# Fluorite_Dust
+
+Fluorite Dust is a Material made by crushing Fluorite inside a Crusher. This dust can be used in a Combiner with Cobblestone to make Fluorite Ore or Cobbled Deepslate to make Deepslate Fluorite Ore. It may also be turned back into Fluorite in an Enrichment Chamber. Fluorite Dust is mainly used in the Pressurized Reaction Chamber with Water and Polonium or Plutonium to make Polonium Pellets and Plutonium Pellets respectively. Polonium Pellets are used to make the Mekasuit, Modification Station, Meka-Tool, Modules, Fusion Reactor Frames, QIO Parts, and the Supercharged Coil. Plutonium Pellets are used in the Chemical Injection Chamber with Hydrogen Chloride or Salt to make Reprocessed Fissile Fragments which are converted into Fissile Fuel. They are both used together along with HDPE Sheets to make SPS Casings, which are part of the Supercritical Phase Shifter.
+
+Fluorite Dust Is Converted Into Polonium Pellets In PRC Fluorite Dust Is Converted Into Plutonium Pellets In PRC

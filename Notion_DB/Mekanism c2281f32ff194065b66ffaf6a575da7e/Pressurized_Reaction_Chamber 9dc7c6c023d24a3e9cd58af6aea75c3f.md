@@ -1,0 +1,169 @@
+# Pressurized_Reaction_Chamber
+
+Pressurized Reaction Chamber
+
+| Mod |  |
+| --- | --- |
+| Mekanism |  |
+|  |  |
+| Type |  |
+| Machine |  |
+|  |  |
+| Tool |  |
+|  |  |
+|  |  |
+| Stackable |  |
+| No |  |
+|  |  |
+
+The **Pressurized Reaction Chamber** (PRC) is used primarily to create Substrate (to create HDPE Pellets), HDPE Pellets (to create HDPE Sheets), and Ethylene (an efficient source of fuel used in the Gas-Burning Generator). It has a variable speed and energy usage dependent on the materials/gasses it is creating.
+
+## Contents
+
+- 1 Usage
+    - 1.1 Recipes
+    - 1.2 Setup
+- 2 Crafting Recipe
+- 3 Tips
+
+## Usage
+
+The Pressurized Reaction Chamber accepts a liquid, a gas, and a material(s); it uses these three substances to create another material(s) and some leftover gas. Like many other Mekanism machines, it has configurable sides; by default, it accepts gas from the left, accepts liquid from the back, and outputs gas on the right.
+
+### Recipes
+
+Energy/tick | Total Energy | Speed | Input Liquid | Input Gas | Input Material | Output Material | Output Gas |
+— | — | — | — | — | — | — | — |
+5 J/t | 500 J | Normal (5s) | Water (10 mB) | Hydrogen (100) | Bio Fuel (2) | Substrate (1) | Ethylene (100) |
+205 J/t | 82 KJ | Slow (20s) | Water (200 mB) | Ethylene (100) | Substrate (1) | Substrate (8) | Oxygen (10) |
+1000 J/t | 70 kJ | Normal (3.5s) | Liquid Ethylene (50 mB) | Oxygen (10) | Substrate (1) | HDPE Pellet (1) | Oxygen (5) |
+
+### Setup
+
+PRC Substrate Setup The image on the left is an example setup of a Pressurized Reaction Chamber creating Substrate from Water, Hydrogen, and Bio Fuel.
+
+**A** - A Gas Tank outputting Hydrogen. Gas Tanks output through their side with a red rectangular mark into Pressurized Tube. You can obtain Hydrogen naturally by using an Electrolytic Separator.
+
+**B** - A Portable Tank outputs water through Mechanical Pipe. Notice that the end of the Mechanical Pipe touching the Portable Tank has been configured using a Configurator to “PULL”. You can obtain water naturally by using the Electric Pump.
+
+**C** - A powered Crusher crushes natural ingredients into Bio Fuel and outputs it through Logistical Transporter piping. Again, note that the piping has been set to “PULL”.
+
+**D** - The resulting Ethylene (Gas) from the reaction is sent through Pressurized Tube into a Gas Tank.
+
+**E** - The Pressurized Reaction Chamber itself. It has been configured to accept items from its top (Items - Red), accept Energy through its bottom (Energy - Green), accept gases from its left (Gases - Red), accept fluids from its back (Fluids - Yellow), and output gases from its right (Gases - Blue - Auto Eject: On).
+
+## Crafting Recipe
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## Tips
+
+- If you need to clear a liquid or gas from the input gauges, use the Gauge Dropper; simply open the Pressurized Reaction Chamber’s GUI (by right-clicking it), take an empty Gauge Dropper from your inventory, and click on the gauge with the liquid or gas that you want to extract. You can then either shift+right-click on the ground with the Gauge Dropper to empty it and continue to extract the gas or liquid by repeating the previous steps, or drop it into a Gas Tank or Portable Tank’s input slot on its interface (marked with either an “I” or a “-”) to move the substance into the receptacle without wasting it.
+- Remember that Liquid Ethylene is **not** the same as Ethylene. To create HDPE Pellets, you must first convert the Ethylene into Liquid Ethylene using a Rotary Condensentrator. Have it accept Ethylene from its “G” (Gas) side, and output Liquid Ethylene from its “L” (Liquid) side, and leave it in “Condensentrating” mode.
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+- v
+- t
+- e Mekanism | | — | | | | Guides |
+- Ore Processing
+- Getting Started
+- Basic Ore Processing Setup
+- Advanced Ore Processing Setup
+- Installation Instructions
+- Machine Configuration
+- Upgrading to Mekanism v8
+
+| | | | Machinery | * Metallurgic Infuser * Enrichment Chamber * Osmium Compressor * Crusher * Combiner * Energized Smelter * Purification Chamber * Digital Miner * Electrolytic Separator * Factory * Precision Sawmill * Pressurized Reaction Chamber * Chemical Injection Chamber * Chemical Infuser * Chemical Oxidizer * Chemical Dissolution Chamber * Chemical Washer * Chemical Crystallizer * Rotary Condensentrator * Seismic Vibrator * Fluidic Plenisher * Solar Neutron Activator * Oredictionificator
+
+| | | | Generators | * Heat Generator * Solar Generator * Advanced Solar Generator * Wind Generator * Bio-Generator * Gas-Burning Generator
+
+| | | | Tools | * Lapis Lazuli Tools * Bronze Tools * Osmium Tools * Glowstone Tools * Steel Tools * Obsidian Tools * Paxel * Gauge Dropper
+
+| | | | Armor | * Lapis Lazuli Armor * Bronze Armor * Osmium Armor * Glowstone Armor * Steel Armor * Obsidian Armor
+
+| | | | Equipment | * Jetpack * Armored Jetpack * Scuba Tank * Gas Mask * Free Runners * Flamethrower
+
+| | | | Ore Processing |
+
+| Ores |  |
+| --- | --- |
+- Copper Ore
+- Tin Ore
+- Osmium Ore
+- Salt Block
+- Uranium Ore
+
+| | | | Dusts | * Dusts * Dirty Dusts * Clumps * Shards * Crystals * Slurry * Enriched Iron
+
+| | | | Ingots | * Copper Ingot * Tin Ingot * Osmium Ingot * Bronze Ingot * Steel Ingot * Obsidian Ingot * Glowstone Ingot
+
+| | | | Compressed | * Compressed Carbon * Compressed Diamond * Compressed Obsidian * Compressed Redstone
+
+|
+
+| | | | Upgrades | * Speed Upgrade * Energy Upgrade * Gas Upgrade * Filter Upgrade * Anchor Upgrade * Factory Installers
+
+| | | | Gadgets | * Atomic Disassembler * Cardboard Box * Chargepad * Configurator * Dictionary * Electric Bow * Electric Pump * Energy Tablet * Portable Teleporter * Robit * Walkie-Talkie * Filter Card * Seismic Reader
+
+| | | | Transmitters | * Logistical Transporter * Restrictive Transporter * Diversion Transporter * Logistical Sorter * Mechanical Pipe * Pressurized Tube * Universal Cable * Thermodynamic Conductor
+
+| | | | Storage |
+
+| Bins |  |
+| --- | --- |
+- Basic Bin
+- Advanced Bin
+- Elite Bin
+- Ultimate Bin
+
+| | | | Energy Cubes | * Basic Energy Cube * Advanced Energy Cube * Elite Energy Cube * Ultimate Energy Cube
+
+| | | | Gas Tanks | * Basic Gas Tank * Advanced Gas Tank * Elite Gas Tank * Ultimate Gas Tank
+
+| | | | Fluid Tanks | * Basic Fluid Tank * Advanced Fluid Tank * Elite Fluid Tank * Ultimate Fluid Tank
+
+| | | | Multiblock Storage | * Dynamic Tank
+
+| | | | Small Storage | * Personal Chest
+
+|
+
+| | | | Aesthetic Blocks | * Bronze Block * Charcoal Block * Copper Block * Osmium Block * Refined Glowstone * Refined Obsidian * Steel Block * Tin Block * Plastic Block * Glow Panel
+
+| | | | Components | * Solar Panel * Steel Casing * HDPE Pellet * HDPE Sheet * HDPE Rod * PlaStick
+
+| Alloys |  |
+| --- | --- |
+- Enriched Alloy
+- Reinforced Alloy
+- Atomic Alloy
+
+| | | | Control Circuits | * Basic Control Circuit * Advanced Control Circuit * Elite Control Circuit * Ultimate Control Circuit
+
+| | | | Cores | * Electrolytic Core * Teleportation Core
+
+| | | | Thermal Evaporation Plant | * Thermal Evaporation Block * Thermal Evaporation Controller * Thermal Evaporation Valve
+
+| | | | Dynamic Tank | * Dynamic Glass * Dynamic Tank * Dynamic Valve
+
+| | | | Teleporter Portal | * Teleporter * Teleporter Frame
+
+| | | | Fusion Reactor | * Reactor Frame * Reactor Port * Reactor Controller * Reactor Glass * Reactor Logic Adapter * Laser Focus Matrix
+
+| | | | Industrial Turbine | * Turbine Casing * Turbine Valve * Turbine Vent * Pressure Disperser * Turbine Blades * Turbine Rotor * Rotational Complex * Electromagnetic Coil * Structural Glass
+
+| | | | Induction Matrix | * Induction Casing * Induction Port * Induction Cells * Induction Providers
+
+| | | | Lasers | * Laser * Laser Amplifier * Laser Tractor Beam
+
+|
+
+| | | | Miscellaneous | * Balloon * Bio Fuel * Gases * MekaCape * Obsidian TNT * Teleporter Portal
+
+|
+
+|

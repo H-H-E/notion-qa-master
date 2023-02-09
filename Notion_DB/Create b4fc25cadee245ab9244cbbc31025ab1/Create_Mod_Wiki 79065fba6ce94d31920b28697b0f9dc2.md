@@ -1,0 +1,61 @@
+# Create_Mod_Wiki
+
+**Welcome to the Minecraft Create Mod Wiki!**
+232 articles since June 12th, 2019 ## About
+
+Create is a **minecraft mod** created by simibubi that allows you to make Contraptions and automate processes using Rotational Power. It adds many mechanical components and block variants to the game. This mod has good optimization and FPS, so it can be played on nearly any computer!
+
+## The Basics
+
+### First Steps
+
+PonderingShaftCogwheelWater WheelAndesite CasingMechanical BeltEngineer’s Goggles ### Materials
+
+Andesite AlloyCopperZincBrass ### Machines
+
+Mechanical PressEncased FanCrushing WheelMechanical DrillMechanical SawMechanical HarvesterMechanical MixerSpoutBlaze BurnerDeployerMechanical ArmMechanical CrafterHand CrankSteam EngineSchematicannon ## How to Contribute
+
+Welcome to the wiki! Want to help improve the Create Mod Wiki? Well anyone can do it, so don’t be shy! Even if you are worried about mistakes, the wiki is moderated daily by users and anons alike, and mistakes you make will be corrected. Don’t worry about your edit being reverted, as long as you show good faith in your edit, it will most likely remain in at least some form. Of course, just don’t delete the main page. So get out there, edit, and be bold! If you have any questions, feel free to ask on the Community discussions! If you have found vandalism on the wiki or have a dispute with another user, feel free to report it to an Administrator!
+
+## Editing Resources
+
+## News
+
+- Added Display Link
+- Added Display Board
+- Added Steam Engine
+- Added Steam Whistle
+- Added Metal Girders
+- Added Train Casing
+- Added Train Track
+- Added Train Station
+- Added Train Signal
+- Added Train Observer
+- Added Train Schedule
+- Added Train Controls
+- Added Placard
+- Added Andesite, Brass and Copper Ladder
+- Added Train Door and Trapdoors
+- Added Framed Glass Door and Trapdoor
+- Added Rose Quartz Block and Rose Quartz Tiles
+- Added Rose Quartz Lamp
+- Added Sturdy Sheet
+
+## Community Links
+
+- Official Mod Page
+- Official GitHub Repository
+- General Wiki Discussion
+
+## Helping Out
+
+Help the wiki be the best it can be!
+
+- Wanted Pages
+- Expand short pages
+- Upload images
+
+## Getting Started
+
+- Wiki policies and guidelines
+- Wiki sandbox

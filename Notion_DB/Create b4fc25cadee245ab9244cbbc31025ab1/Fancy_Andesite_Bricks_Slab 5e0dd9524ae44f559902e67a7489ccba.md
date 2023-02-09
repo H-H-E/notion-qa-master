@@ -1,0 +1,3 @@
+# Fancy_Andesite_Bricks_Slab
+
+1. REDIRECT Slabs

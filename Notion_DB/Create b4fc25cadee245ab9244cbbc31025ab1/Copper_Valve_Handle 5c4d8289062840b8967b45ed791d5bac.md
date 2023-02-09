@@ -1,0 +1,79 @@
+# Copper_Valve_Handle
+
+## Copper Valve Handle
+
+- Copper
+- White
+- Orange
+- Magenta
+- Light Blue
+- Yellow
+- Lime
+- Pink
+- Gray
+- Light Gray
+- Cyan
+- Purple
+- Blue
+- Brown
+- Green
+- Red
+- Black
+
+### Renewable
+
+No
+
+### Stackable
+
+Yes (64)
+
+### Tool
+
+### Blast resistance
+
+6
+
+### Hardness
+
+3
+
+### Solid block
+
+Yes
+
+### Full block
+
+No
+
+### Transparent
+
+Yes
+
+### Luminant
+
+No
+
+### Flammable
+
+No
+
+### Catches fire from lava
+
+No
+
+## Rotational Power stats
+
+### Kinetic Stress capacity
+
+128 SU
+
+## Obtaining[]
+
+### Crafting[]
+
+## Usage[]
+
+The Valve Handle functions much like the Hand Crank, though it only does a quarter rotation at a time. This may be useful for Contraptions that require a certain orientation to function.
+
+The valve handle can be dyed all 16 vanilla colors by right clicking it with the respective Dye.

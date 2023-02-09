@@ -1,0 +1,90 @@
+# Train_Casing
+
+## Casing
+
+- Andesite
+- Brass
+- Copper
+- Train
+
+### Renewable
+
+**Brass** & **Train**: No**All others**: Yes
+
+### Stackable
+
+Yes (64)
+
+### Tools
+
+### Blast resistance
+
+6
+
+### Hardness
+
+1.5
+
+### Solid block
+
+Yes
+
+### Full block
+
+Yes
+
+### Transparent
+
+No
+
+### Luminant
+
+No
+
+### Flammable
+
+No
+
+### Catches fire from lava
+
+No
+
+**Casings** are blocks used throughout many crafting recipes in Create, as well as for decoration and aesthetic purposes.
+
+There are four types of Casings: **Andesite** Casings are mainly used in basic contraptions, **Brass** Casings are used in more advanced machines, **Copper** Casings are strictly for fluids, and **Train** Casings for locomotive transportation.
+
+## Contents
+
+- 1 Obtaining
+    - 1.1 Manual Item Application
+- 2 Usage
+    - 2.1 Crafting
+    - 2.2 Encasing
+- 3 History
+- 4 Gallery
+
+## Obtaining[]
+
+### Manual Item Application[]
+
+Casings can only be crafted through physically applying a valid alloy or ingot to any Stripped variant of Log or Wood. The logs will convert themselves into the casing, where the player can either mine it with their preferred tools or use a Wrench to cause the casing to place itself in their inventory.
+
+## Usage[]
+
+### Crafting[]
+
+### Encasing[]
+
+```
+Copper Casings can be used to prevent Pipes from connecting to each other. Notice the empty pipe and tank in the bottom image.
+```
+
+Mechanical Belts, Shafts, and Cogwheels can be encased in most casings, creating a decoration around the encased block. Fluid Pipes and the Copper variant of casings are mutually inclusive; A fluid pipe will not accept any other kind of casing, and the Copper casing can only be applied to pipes.
+
+Although mostly decorative, applying Casings to contraptions does come with some functionality. Applying a casing to a pipe will prevent it from connecting to any pipes placed after the casing was applied, save for directly in front of the pipe opening. Casing on Cogwheels can prevent cogs from connecting to other cogs via the shaft, and this is adjustable with a Wrench.
+
+## History[]
+
+## Gallery[]
+
+From Left to Right: Andesite, Brass, Copper and Train casings. Belts are shown on the sides, and the Shaft, Cog and Pipe are covered on the bottom.An example of Cogs having their shafts blocked by a Casing, preventing their connection.
